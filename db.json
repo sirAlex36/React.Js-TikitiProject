@@ -1,0 +1,117 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Wine &Cheese",
+      "date": "2025-10-31",
+      "location": "Rosylin Square luxury Mall",
+      "description": "Wine & Cheese",
+      "price": "ksh 1000",
+      "image": "https://admin.ticketsasa.com/storage//events/September2025/ax8YAE2vQu-1759216678.jpg",
+      "Extras": "Tickets are non refundable",
+      "Organiser": "Triniy Events",
+      "Text": "Wine &Cheese-Say Cheese,Sip Wine"
+    },
+    {
+      "id": 2,
+      "name": "Masaku-TT",
+      "date": "2025-10-18",
+      "location": "Machakos Peoples Park, Machakos, Kenya",
+      "description": "Masaku-TT",
+      "price": "ksh 1500",
+      "image": "https://admin.ticketsasa.com/storage//events/September2025/vEn7wHiaIr-1757143786.jpg",
+      "Extras": "Tickets are non refundable",
+      "Organiser": "Delta Motorsports",
+      "Text": "Masaku-Tarmac"
+    },
+    {
+      "id": 3,
+      "name": "Spooky Renaissance",
+      "date": "2024-10-28",
+      "location": "Hp Lounge and restaurant",
+      "description": "Spooky Renaissance event.",
+      "price": "ksh 1000",
+      "image": "https://admin.ticketsasa.com/storage//events/September2025/lG04YmAaVx-1758030029.jpg",
+      "Extras": "Tickets are non refundable",
+      "Organiser": "Spooky Renaissance",
+      "Text": "Spooky Renaissance is an immersive Halloween experience that transports attendees to a world where the elegance of the Renaissance era meets the eerie allure of Halloween. Set against a backdrop of opulent costumes, haunting music, and elaborate decorations, this event offers a unique blend of history and horror. Guests can expect a night filled with themed performances, interactive activities, and a costume contest that encourages creativity and extravagance. Whether you're a history buff or a Halloween enthusiast, Spooky Renaissance promises an unforgettable evening of mystery, excitement, and festive fun."
+    },
+    {
+      "id": 4,
+      "name": " Sunsets & Sundresses",
+      "date": "2025-10-26",
+      "location": "Chogi Redhill,Riara Ridge,Kenya",
+      "description": "Horse racing event.",
+      "price": "ksh 1000",
+      "image": "https://admin.ticketsasa.com/storage//events/October2025/MywEWJevdH-1760365158.jpg",
+      "Extras": "Tickets are non refundable",
+      "Organiser": "Red Dot LTD",
+      "Text": "Step back into the golden era with 90s By The Bonfire – a unique blend of garden party vibes and nostalgic nightlife.\n\nJoin us on Saturday, November 1st at Chogi’s Campsite, Tigoni – Redhill from 2PM till late. Dress the theme in sunsets & sundresses and enjoy great music by Trail Blaze Unit DJs, amazing company, and a cozy bonfire under the stars.\n\n🎶 Highlights:\n\n* Garden Party in the scenic Tigoni outdoors 🌳\n* Bonfire Night 🔥\n* Non-stop 90s hits & feel-good vibes\n\n🎟 Tickets:\n\n* Early Bird: Kshs 1,000\n* At the Gate: Kshs 1,500\n\nDon’t miss out on this one-of-a-kind experience — grab your friends, dress the vibe, and let’s relive the magic of the 90s together!"
+    },
+    {
+      "id": 5,
+      "name": "Haloween Carnival",
+      "date": "2025-10-25",
+      "location": "Village Market",
+      "description": "Halloween event.",
+      "price": "ksh 1500",
+      "image": "https://admin.ticketsasa.com/storage//events/September2025/XAh2BYw73u-1758616397.jpg",
+      "Extras": "Tickets are non refundable",
+      "Organiser": "Haloween Carnival",
+      "Text": "Village Market has proudly celebrated Halloween for the past 30 years, and this year we mark our 30th Halloween celebration with an exciting theme dubbed, ‘Village Market Halloween Carnival’ The celebration will feature a kids’ rooftop party dubbed, Little Monsters Carnival and an adults’ food court party dubbed Adults Monsters Ball,  both filled with carnival-inspired activities, entertainment, and spooky fun across the mall. This grand Halloween carnival promises a unique and unforgettable experience for families and adults alike, bringing the community together in celebration"
+    },
+    {
+      "id": 6,
+      "name": "Cinema Under The Stars",
+      "date": "2025-10-31",
+      "location": "Ngong Racecourse",
+      "description": "Outdoor movie screening event.",
+      "price": "ksh 1000",
+      "image": "https://admin.ticketsasa.com/storage//events/September2025/j738m4Txcp-1757960273.jpg",
+      "Extras": "Tickets are non refundable",
+      "Organiser": "MyTickets.com",
+      "Text": "🎬 Cinema Under the Stars\nJoin us on Friday,\n31st October 2025 at Chogi’s Campsite, Tigoni – Red Hill for a thrilling night of cinema and music!\n\nWe’ll be screening two classic horror masterpieces:\n🍿 The Silence of the Lambs\n🍿 The Shining\n\nAfter the movies, the night continues with an electrifying afterparty featuring DJs and music till late (strictly 18+).\n\n✨ Gates open at 5:45 PM."
+    },
+    {
+      "id": 7,
+      "name": "AfroJazz Night",
+      "date": "2025-10-18",
+      "location": "Clarett Thigiri",
+      "description": "Experience the soulful rhythms of Afro-Jazz.",
+      "price": "ksh 1500",
+      "image": "https://admin.ticketsasa.com/storage//events/September2025/YyUqk9eBnp-1759118918.jpg",
+      "Extras": "Tickets are non refundable",
+      "Organiser": "MyTickets.com",
+      "Text": "Afro-Jazz: Authentic, soulful, and proudly African in every note.\n\nAfro-Jazz is where Africa’s heartbeat meets the soulful spirit of jazz. A premium and timeless genre that fuses traditional African rhythms, instruments, and storytelling with the improvisation and freedom of jazz, creating a sound that is both authentic and innovative. More than music, Afro-Jazz is a soulful language—it celebrates heritage, resilience, and creativity while inviting audiences to feel, reflect, and connect. Each performance is a journey that blends authenticity with elegance, leaving a lasting impression beyond entertainment.\n\nAt Beatbox Productions and Media, our passion for Afro-Jazz is intentional. We chose it because it embodies the essence of who we are—curators of authentic, world-class, soulful, and memorable experiences. Through our Afro-Jazz nights at Clarett Thigiri, we craft premium cultural moments that inspire pride in African artistry while positioning Nairobi as a vibrant hub for the genre. Afro-Jazz allows us to tell stories, celebrate identity, and connect communities in a way that is elevated, distinctive, and unforgettable."
+    },
+    {
+      "id": 8,
+      "name": "Openwine Sunsets ",
+      "date": "2025-10-12",
+      "location": "Liquor library Tigoni",
+      "description": "Open wine sunsets wine and Rose Edition.",
+      "price": "ksh 1500",
+      "image": "https://admin.ticketsasa.com/storage//events/September2025/UaYDC98iIJ-1758873010.jpg",
+      "Extras": "Tickets are non refundable",
+      "Organiser": "MyTickets.com",
+      "Text": "Open Wine Sunsets-Sparkling Wine and Rosé Edition\n\nJoin us for an exquisite evening at Liquor Library Tigoni on Saturday, 12th October 2025, from 4 PM to 8 PM, as we celebrate the effervescent charm of sparkling wines and the delicate allure of rosé. This special edition of Open Wine Sunsets promises a delightful exploration of flavors, perfect for wine enthusiasts and novices alike.\n\nIndulge in a curated selection of sparkling wines and rosés, expertly paired with gourmet bites that enhance the tasting experience. Whether you're looking to unwind after a long week or seeking a sophisticated outing with friends, this event offers the perfect ambiance to savor the moment.\n\nDon't miss out on this unique opportunity to elevate your wine appreciation in the serene setting of Tigoni. Secure your tickets now for an unforgettable evening of elegance and taste!"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "user1@example.com",
+      "password": "password1"
+    },
+    {
+      "id": 2,
+      "email": "user2@example.com",
+      "password": "password2"
+    },
+    {
+      "id": "8f43",
+      "email": "alexngenoo@gmail.com",
+      "password": "12345678"
+    }
+  ]
+}
