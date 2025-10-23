@@ -9,7 +9,7 @@ function Homepage() {
   const navigate = useNavigate();
 
   useEffect(() => {
-    fetch("http://localhost:3001/events")
+    fetch("http://localhost:3002/events")
       .then((res) => res.json())
       .then((data) => setEvents(data))
       .catch((err) => console.error("Error loading events:", err));
@@ -24,8 +24,8 @@ function Homepage() {
     );
     setResults(filtered);
   };
-  const handleBuyClick = (eventId) => {
-    navigate(`/UpcomingEvents/${eventId}`);
+  const handleBuyClick = () => {
+    navigate("/UpcomingEvents");
   };
 
   return (
@@ -90,9 +90,10 @@ function Homepage() {
                   <div
                     key={event.id}
                     className="border-bottom pb-2 mb-2 text-start"
-                    style={{ lineHeight: "1.2" }}
+                    style={{ lineHeight: "1.2", cursor: "pointer" }}
+                    onClick={() => navigate(`/card/${event.id}`)}
                   >
-                    <h6 className="fw-bold mb-1">{event.name}</h6>
+                    <h6 className="fw-bold mb-1 text-primary">{event.name}</h6>
                     <small className="text-muted d-block">
                       📍 {event.location} — 📅 {event.date}
                     </small>

@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Wine &Cheese",
       "date": "2025-10-31",
       "location": "Rosylin Square luxury Mall",
@@ -11,10 +11,10 @@
       "Extras": "Tickets are non refundable",
       "Organiser": "Triniy Events",
       "Text": "Wine &Cheese-Say Cheese,Sip Wine",
-       "popular":true
+      "popular": true
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Masaku-TT",
       "date": "2025-10-18",
       "location": "Machakos Peoples Park, Machakos, Kenya",
@@ -24,10 +24,10 @@
       "Extras": "Tickets are non refundable",
       "Organiser": "Delta Motorsports",
       "Text": "Masaku-Tarmac",
-       "popular":true
+      "popular": true
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Spooky Renaissance",
       "date": "2024-10-28",
       "location": "Hp Lounge and restaurant",
@@ -37,10 +37,10 @@
       "Extras": "Tickets are non refundable",
       "Organiser": "Spooky Renaissance",
       "Text": "Spooky Renaissance is an immersive Halloween experience that transports attendees to a world where the elegance of the Renaissance era meets the eerie allure of Halloween. Set against a backdrop of opulent costumes, haunting music, and elaborate decorations, this event offers a unique blend of history and horror. Guests can expect a night filled with themed performances, interactive activities, and a costume contest that encourages creativity and extravagance. Whether you're a history buff or a Halloween enthusiast, Spooky Renaissance promises an unforgettable evening of mystery, excitement, and festive fun.",
-      "popular":false
+      "popular": false
     },
     {
-      "id": 4,
+      "id": "4",
       "name": " Sunsets & Sundresses",
       "date": "2025-10-26",
       "location": "Chogi Redhill,Riara Ridge,Kenya",
@@ -50,10 +50,10 @@
       "Extras": "Tickets are non refundable",
       "Organiser": "Red Dot LTD",
       "Text": "Step back into the golden era with 90s By The Bonfire – a unique blend of garden party vibes and nostalgic nightlife.\n\nJoin us on Saturday, November 1st at Chogi’s Campsite, Tigoni – Redhill from 2PM till late. Dress the theme in sunsets & sundresses and enjoy great music by Trail Blaze Unit DJs, amazing company, and a cozy bonfire under the stars.\n\n🎶 Highlights:\n\n* Garden Party in the scenic Tigoni outdoors 🌳\n* Bonfire Night 🔥\n* Non-stop 90s hits & feel-good vibes\n\n🎟 Tickets:\n\n* Early Bird: Kshs 1,000\n* At the Gate: Kshs 1,500\n\nDon’t miss out on this one-of-a-kind experience — grab your friends, dress the vibe, and let’s relive the magic of the 90s together!",
-     "popular": false
+      "popular": false
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Haloween Carnival",
       "date": "2025-10-25",
       "location": "Village Market",
@@ -66,7 +66,7 @@
       "popular": false
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Cinema Under The Stars",
       "date": "2025-10-31",
       "location": "Ngong Racecourse",
@@ -79,7 +79,7 @@
       "popular": true
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "AfroJazz Night",
       "date": "2025-10-18",
       "location": "Clarett Thigiri",
@@ -92,7 +92,7 @@
       "popular": true
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Openwine Sunsets ",
       "date": "2025-10-12",
       "location": "Liquor library Tigoni",
@@ -107,12 +107,12 @@
   ],
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "email": "user1@example.com",
       "password": "password1"
     },
     {
-      "id": 2,
+      "id": "2",
       "email": "user2@example.com",
       "password": "password2"
     },
@@ -120,6 +120,23 @@
       "id": "8f43",
       "email": "alexngenoo@gmail.com",
       "password": "12345678"
+    }
+  ],
+  "tickets": [
+    {
+      "id": "1573"
+    },
+    {
+      "id": "286b",
+      "firstName": "Alex",
+      "lastName": "Ngeno",
+      "email": "kipkorirale42@gmail.com",
+      "phone": "+254728976449",
+      "ticketType": "regular",
+      "quantity": 1,
+      "paymentMethod": "mpesa",
+      "requests": "",
+      "terms": true
     }
   ]
 }
