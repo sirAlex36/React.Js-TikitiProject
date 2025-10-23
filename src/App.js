@@ -8,6 +8,7 @@ import Contact from "./Components/Contact.jsx";
 import SignIn from "./Components/SignIn.jsx";
 import SignUp from "./Components/SignUp.jsx";
 import Card from "./Components/Card.jsx";
+import FeaturedEvents from "./Components/FeaturedEvents.jsx";
 function App() {
   return (
     <div className="d-flex flex-column min-vh-100">
@@ -25,6 +26,7 @@ function App() {
           <Route path="/login" element={<SignIn />} />
           <Route path="/signup" element={<SignUp />} />
           <Route path="/card/:eventId" element={<Card />} />
+          <Route path="/FeaturedEvents" element={<FeaturedEvents/>}/>
         </Routes>
       </div>
 

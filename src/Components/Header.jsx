@@ -46,12 +46,12 @@ function Header() {
             </li>
             <li className="nav-item px-2">
               <NavLink
-                to="/Homepage"
+                to="/FeaturedEvents"
                 className={({ isActive }) =>
                   isActive ? "nav-link active text-white" : "nav-link text-white"
                 }
               >
-             Find
+             Featured
               </NavLink>
               
             </li>

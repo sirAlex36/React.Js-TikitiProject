@@ -2,12 +2,12 @@ import React from 'react';
 
 function Footer() {
   return (
-    <footer className="bg-secondary text-white py-4 mt-5" style={{ marginTop: 'auto' }}>
+    <footer className="bg-secondary text-white py-4 mt-5" style={{ marginTop: 'auto',maxHeight:"400px" }}>
       <div className="container">
         <div className="row">
           <div className="col-md-6">
             <h5>Tikiti Yangu</h5>
-            <p>Your trusted partner for event tickets</p>
+          
           </div>
           <div className="col-md-3">
             <h6>Quick Links</h6>

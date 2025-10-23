@@ -12,4 +12,4 @@ Search and filter events by category, date, and price
 **Styling:** Bootstrap
 **State Management:** React Hooks (`useState`, `useEffect`)
 **Routes:**Routing
-**Data:** Local JSON file (`db.json`) or API integration
+**Data:** Local JSON file (`db.json`) 

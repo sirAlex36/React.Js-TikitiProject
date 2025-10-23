@@ -9,7 +9,7 @@ function UpcomingEvents() {
 useEffect(() => {
   const fetchEvents = async () => {
     try {
-      const response = await fetch('http://localhost:3001/events');
+      const response = await fetch('http://localhost:3002/events');
       const data = await response.json();
       setEvents(data); 
     } catch (error) {
