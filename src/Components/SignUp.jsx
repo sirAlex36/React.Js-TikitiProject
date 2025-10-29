@@ -20,7 +20,7 @@ function SignUp() {
     }
 
     try {
- 
+
       const checkResponse = await fetch(
         `http://localhost:3001/users?email=${email}`
       );
@@ -31,7 +31,7 @@ function SignUp() {
         return;
       }
 
-    
+
       const response = await fetch("http://localhost:3001/users", {
         method: "POST",
         headers: {
@@ -43,7 +43,7 @@ function SignUp() {
       if (!response.ok) throw new Error("Failed to create user");
 
       setSuccess("Account created successfully! Redirecting to login...");
-      setTimeout(() => navigate("/login"), 2000); 
+      setTimeout(() => navigate("/login"), 2000);
     } catch (err) {
       console.error(err);
       setError("Server error. Please try again later.");
